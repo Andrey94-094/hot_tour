@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/hot_tour/static/css/main.fae012eb.chunk.css",
+    "main.js": "/hot_tour/static/js/main.3b41491f.chunk.js",
+    "main.js.map": "/hot_tour/static/js/main.3b41491f.chunk.js.map",
+    "runtime-main.js": "/hot_tour/static/js/runtime-main.98a319f8.js",
+    "runtime-main.js.map": "/hot_tour/static/js/runtime-main.98a319f8.js.map",
+    "static/js/2.81e2c408.chunk.js": "/hot_tour/static/js/2.81e2c408.chunk.js",
+    "static/js/2.81e2c408.chunk.js.map": "/hot_tour/static/js/2.81e2c408.chunk.js.map",
+    "index.html": "/hot_tour/index.html",
+    "static/css/main.fae012eb.chunk.css.map": "/hot_tour/static/css/main.fae012eb.chunk.css.map",
+    "static/js/2.81e2c408.chunk.js.LICENSE.txt": "/hot_tour/static/js/2.81e2c408.chunk.js.LICENSE.txt",
+    "static/media/fonts.scss": "/hot_tour/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/aerostat.5c0c0fbe.png": "/hot_tour/static/media/aerostat.5c0c0fbe.png",
+    "static/media/africa.ac0e1595.jpeg": "/hot_tour/static/media/africa.ac0e1595.jpeg",
+    "static/media/Intro.scss": "/hot_tour/static/media/blob.5185a08e.png",
+    "static/media/case.3224c558.svg": "/hot_tour/static/media/case.3224c558.svg",
+    "static/media/georgia.609f995d.jpg": "/hot_tour/static/media/georgia.609f995d.jpg",
+    "static/media/italy.d3675efc.jpeg": "/hot_tour/static/media/italy.d3675efc.jpeg",
+    "static/media/japan.66e3034d.jpeg": "/hot_tour/static/media/japan.66e3034d.jpeg",
+    "static/media/mount.4348af88.svg": "/hot_tour/static/media/mount.4348af88.svg",
+    "static/media/mounts.a55c90f1.jpeg": "/hot_tour/static/media/mounts.a55c90f1.jpeg",
+    "static/media/HotTours.scss": "/hot_tour/static/media/mountsBig.1861044e.png",
+    "static/media/polish.4f153b71.jpg": "/hot_tour/static/media/polish.4f153b71.jpg",
+    "static/media/road.65e667c6.jpeg": "/hot_tour/static/media/road.65e667c6.jpeg",
+    "static/media/road_four.1f585c5e.jpeg": "/hot_tour/static/media/road_four.1f585c5e.jpeg",
+    "static/media/road_three.7bb67e31.jpeg": "/hot_tour/static/media/road_three.7bb67e31.jpeg",
+    "static/media/road_two.2b247e83.jpeg": "/hot_tour/static/media/road_two.2b247e83.jpeg",
+    "static/media/spain.9e5b0ec9.jpeg": "/hot_tour/static/media/spain.9e5b0ec9.jpeg",
+    "static/media/Statistics.scss": "/hot_tour/static/media/stat_bg.59f09dbd.jpeg",
+    "static/media/travel.b0d60591.svg": "/hot_tour/static/media/travel.b0d60591.svg",
+    "static/media/turkish.d9ce86b0.jpg": "/hot_tour/static/media/turkish.d9ce86b0.jpg",
+    "static/media/user.e01c9ca4.svg": "/hot_tour/static/media/user.e01c9ca4.svg",
+    "static/media/village.451f4901.jpeg": "/hot_tour/static/media/village.451f4901.jpeg",
+    "static/media/waterfall.a8437331.jpeg": "/hot_tour/static/media/waterfall.a8437331.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a319f8.js",
+    "static/js/2.81e2c408.chunk.js",
+    "static/css/main.fae012eb.chunk.css",
+    "static/js/main.3b41491f.chunk.js"
+  ]
+}
